@@ -23,4 +23,5 @@ and just download a zip file from the project page.
 
 For now, only [Python 2.7](http://www.python.org/download/) is
 required. If you want to try the `advbrowser` program, you'll also
-need [PHP](http://www.php.net/downloads.php).
+need [PHP](http://www.php.net/downloads.php). The xkcd-windows-wallpaper
+can be used with Visual C# on Microsoft computers.
